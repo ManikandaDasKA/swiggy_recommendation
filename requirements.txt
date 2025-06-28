@@ -1,0 +1,7 @@
+fastapi[standard]
+sqlmodel    
+psycopg
+psycopg-binary
+pydantic-settings
+psycopg2
+# mysql-connector-python
