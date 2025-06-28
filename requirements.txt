@@ -4,4 +4,8 @@ psycopg
 psycopg-binary
 pydantic-settings
 psycopg2
-# mysql-connector-python
+pandas 
+scikit-learn
+pgvector
+surprise
+numpy<2
